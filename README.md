@@ -44,27 +44,6 @@
 
 ---
 
-### 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/Krishna28chandra/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna28chandra&repo=Project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Krishna28chandra/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna28chandra&repo=Project2&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Krishna28chandra/Project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna28chandra&repo=Project3&theme=radical" />
-  </a>
-  <a href="https://github.com/Krishna28chandra/Project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna28chandra&repo=Project4&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna28chandra&show_icons=true&theme=radical" height="180em" />
