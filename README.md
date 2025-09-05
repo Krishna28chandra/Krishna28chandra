@@ -40,7 +40,7 @@
 ### 📜 Certifications
 - 📡 **Networking & Security Workshop** – Cisco & I-Medita *(2024)*  
 - 🔬 **Matlab Certification** – Matlab Academy *(2022)*  
-- 🤖 **Applied Machine Learning in Python** – Coursera *(2023–24)*  
+- 🤖 [**Applied Machine Learning in Python** – Coursera *(2023–24)*](https://coursera.org/share/6bf70157c47631c268e07dada8c87591)  
 
 ---
 
